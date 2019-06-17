@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  ViewController.swift
 //  Lundi
 //
 //  Created by Matthew Murray on 17/06/2019.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
